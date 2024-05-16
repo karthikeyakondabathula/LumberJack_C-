@@ -41,7 +41,7 @@ To play the game, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/LumberjackGame.git
+   git clone https://github.com/karthikeyakondabathula/LumberJack_CSharp.git
    ```
 
 2. **Open the Project:**
