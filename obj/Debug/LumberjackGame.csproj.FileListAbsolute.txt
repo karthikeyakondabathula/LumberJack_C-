@@ -1,0 +1,10 @@
+C:\Users\Tanish\source\repos\LumberjackGame\LumberjackGame\obj\Debug\LumberjackGame.csproj.AssemblyReference.cache
+C:\Users\Tanish\source\repos\LumberjackGame\LumberjackGame\obj\Debug\LumberjackGame.Properties.Resources.resources
+C:\Users\Tanish\source\repos\LumberjackGame\LumberjackGame\obj\Debug\LumberjackGame.csproj.GenerateResource.cache
+C:\Users\Tanish\source\repos\LumberjackGame\LumberjackGame\obj\Debug\LumberjackGame.csproj.CoreCompileInputs.cache
+C:\Users\Tanish\source\repos\LumberjackGame\LumberjackGame\obj\Debug\LumberjackGame.Form1.resources
+C:\Users\Tanish\source\repos\LumberjackGame\LumberjackGame\bin\Debug\LumberjackGame.exe.config
+C:\Users\Tanish\source\repos\LumberjackGame\LumberjackGame\bin\Debug\LumberjackGame.exe
+C:\Users\Tanish\source\repos\LumberjackGame\LumberjackGame\bin\Debug\LumberjackGame.pdb
+C:\Users\Tanish\source\repos\LumberjackGame\LumberjackGame\obj\Debug\LumberjackGame.exe
+C:\Users\Tanish\source\repos\LumberjackGame\LumberjackGame\obj\Debug\LumberjackGame.pdb
